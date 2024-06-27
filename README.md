@@ -15,7 +15,7 @@ O Problema dos Generais Bizantinos é um clássico problema de consenso em siste
 O projeto consiste nas seguintes classes:
 - `General`: Representa um general, que pode ser leal ou traidor.
 - `Comandante`: Representa o comandante que envia a ordem inicial para os generais.
-- `ProblemaDosGeneraisBizantinos`: Classe principal que coordena o processo de envio de ordens e tomada de decisões.
+- `GeneraisBizantinos`: Classe principal que coordena o processo de envio de ordens e tomada de decisões.
 
 ## Como Executar
 
